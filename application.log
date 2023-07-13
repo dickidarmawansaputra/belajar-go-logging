@@ -1,0 +1,13 @@
+time="2023-07-13T12:04:03+07:00" level=info msg="this is info"
+time="2023-07-13T12:04:03+07:00" level=warning msg="this is warn"
+time="2023-07-13T12:04:03+07:00" level=error msg="this is error"
+{"level":"info","msg":"this is info","time":"2023-07-13T12:08:34+07:00"}
+{"level":"warning","msg":"this is warn","time":"2023-07-13T12:08:34+07:00"}
+{"level":"error","msg":"this is error","time":"2023-07-13T12:08:34+07:00"}
+{"level":"info","msg":"this is info","time":"2023-07-13T12:14:02+07:00"}
+{"level":"warning","msg":"this is warn","time":"2023-07-13T12:14:02+07:00"}
+{"level":"error","msg":"this is error","time":"2023-07-13T12:14:02+07:00"}
+{"level":"info","msg":"this is info with field","name":"Dicki Darmawan Saputra","time":"2023-07-13T12:14:58+07:00"}
+{"level":"info","msg":"this is info with field","name":"Dicki Darmawan Saputra","subject":"programmer","time":"2023-07-13T12:16:01+07:00"}
+{"level":"info","msg":"this is info with field","name":"Dicki with fields","subject":"programmer","time":"2023-07-13T12:18:30+07:00"}
+{"level":"info","msg":"this is info with field","name":"Dicki Darmawan Saputra with field","subject":"programmer","time":"2023-07-13T12:18:41+07:00"}
